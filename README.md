@@ -1,8 +1,10 @@
-# ANDRADA - Unit 7 Assignment (CICT Org Fair Part 3)
+# CICT Org Fair
 
-CMS used: Contentful
+Live site: https://juanandrda.github.io/org-fair/
 
-## EXPLAIN answers
+Version 1.1.0 (build 2). Events come from Contentful.
+
+## Unit 7: EXPLAIN answers (CICT Org Fair Part 3)
 
 **E1** (lib/data/event_source.dart, line 11)
 
